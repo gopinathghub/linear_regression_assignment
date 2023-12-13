@@ -1,4 +1,4 @@
-# Build Linear Regression Machine Learning Model
+# Build a Linear Regression Machine Learning Model
 Building a linear regression machine learning model to predict the demand for bike sharing with the available independant variables.
 
 ## General Information
